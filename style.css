@@ -10,6 +10,18 @@ main{
   flex-direction: column;
   flex-grow: 1;
 }
+.grow-1{
+  flex-grow: 1;
+}
+
+.grow-3{
+  flex-grow: 3;
+}
+
+.grow-2{
+  flex-grow: 2;
+}
+
 .card-white {
   background: white;
   padding: 30px;
@@ -24,4 +36,8 @@ main{
 
 .background-grey{
   background-color: #797878;
+}
+
+.text-just{
+text-align: justify;
 }
